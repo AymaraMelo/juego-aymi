@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/juego-aymi/static/css/main.024c005e.chunk.css",
+    "main.js": "/juego-aymi/static/js/main.83878bf4.chunk.js",
+    "main.js.map": "/juego-aymi/static/js/main.83878bf4.chunk.js.map",
+    "runtime-main.js": "/juego-aymi/static/js/runtime-main.b5401c7a.js",
+    "runtime-main.js.map": "/juego-aymi/static/js/runtime-main.b5401c7a.js.map",
+    "static/js/2.6378a8a5.chunk.js": "/juego-aymi/static/js/2.6378a8a5.chunk.js",
+    "static/js/2.6378a8a5.chunk.js.map": "/juego-aymi/static/js/2.6378a8a5.chunk.js.map",
+    "static/js/3.a7b86f6f.chunk.js": "/juego-aymi/static/js/3.a7b86f6f.chunk.js",
+    "static/js/3.a7b86f6f.chunk.js.map": "/juego-aymi/static/js/3.a7b86f6f.chunk.js.map",
+    "index.html": "/juego-aymi/index.html",
+    "static/css/main.024c005e.chunk.css.map": "/juego-aymi/static/css/main.024c005e.chunk.css.map",
+    "static/js/2.6378a8a5.chunk.js.LICENSE.txt": "/juego-aymi/static/js/2.6378a8a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5401c7a.js",
+    "static/js/2.6378a8a5.chunk.js",
+    "static/css/main.024c005e.chunk.css",
+    "static/js/main.83878bf4.chunk.js"
+  ]
+}
