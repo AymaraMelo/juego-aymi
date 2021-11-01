@@ -1,0 +1,100 @@
+.containerGame {
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: rgb(75, 75, 75);
+  border-style: solid;
+  border-color: #585858;
+  border-radius: 10px;
+  margin-top: 5%;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.textTitle {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial,
+    sans-serif;
+  align-self: center;
+}
+
+.mathItem {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 150%;
+  font-weight: bold;
+  color: white;
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  margin-bottom: 5%;
+  border-width: 1;
+  border-style: solid;
+  border-color: #d1fffd;
+}
+
+.input {
+  font-size: 150%;
+  width: 33%;
+  margin-bottom: 5%;
+}
+
+.addButton {
+  font-size: 150%;
+  width: 35.5%;
+  margin-bottom: 5%;
+}
+
+.inputColor {
+  font-size: 100%;
+  height: 10%;
+  width: 15%;
+  align-self: center;
+}
+
+.buttonGroup {
+  display: flex;
+  flex-direction: column;
+}
+
+.containerCard {
+  background-color: #ba0298;
+  width: 25%;
+  padding: 5%;
+  border-radius: 10px;
+  margin: 2%;
+}
+
+.buttonsCardGroup {
+  display: flex;
+  flex-direction: row;
+  margin-top: 0;
+}
+
+.contentCards {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+  margin-top: 3%;
+}
+
+.buttonCard {
+  background-color: transparent;
+  border-width: 0;
+  font-weight: bold;
+}
+
+.textCard {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(253, 224, 248);
+  text-align: center;
+  font-size: 180%;
+  margin-bottom: 0;
+  margin-top: 0;
+}
